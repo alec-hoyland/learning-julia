@@ -32,3 +32,6 @@ Code to implement the model can be found at `scripts/covid19.jl`.
 [Exercism](https://exercism.io/tracks/julia)
 
 [Scientific Computing in Julia Coursera](https://www.coursera.org/learn/julia-programming?action=enroll)
+
+## Lesson N+1: Parallel Computing and Scientific Machine Learning
+https://book.sciml.ai/
